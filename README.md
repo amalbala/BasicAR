@@ -6,6 +6,8 @@ Basic project to test AR capabilities with Unity. The goal is how a 3D shape whe
 
 YouTube Video: https://www.youtube.com/watch?v=Lk_x8Mzz3qM
 
+![](Demo.gif)
+
 ## Getting Started
 
 Download the code and run it inside the [Unity IDE](https://unity.com/) you need EasyAR lib instaled
